@@ -1,3 +1,6 @@
+# What This Is
+Local repo for my work on the DAT257x edX course by Microsoft, "Reinforcement Learning Explained." Below is the included README material for copyright and licensing.
+
 # Reinforcement-Learning-Explained
 This repository contains the lab files for Microsoft course DAT257x: Reinforcement Learning Explained
 
